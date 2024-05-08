@@ -1,0 +1,66 @@
+{
+    
+    "sessions": [
+      {
+        "time": "14:40",
+        "cinema": "Eurasia Cinema7",
+        "prices": {
+          "adult": 2200,
+          "child": 1000,
+          "student": 1500,
+          "VIP": null
+        }
+      },
+      {
+        "time": "15:10",
+        "cinema": "Kinopark 8 IMAX Saryarka",
+        "prices": {
+          "adult": 3500,
+          "child": 1500,
+          "student": 2500,
+          "VIP": 4000
+        }
+      },
+      {
+        "time": "15:40",
+        "cinema": "Kinopark 6 Keruencity Astana",
+        "prices": {
+          "adult": 2700,
+          "child": 900,
+          "student": 1700,
+          "VIP": null
+        }
+      },
+      {
+        "time": "16:05",
+        "cinema": "Arman Asia Park",
+        "prices": {
+          "adult": 1900,
+          "child": null,
+          "student": 1200,
+          "VIP": null
+        }
+      },
+      {
+        "time": "16:15",
+        "cinema": "Chaplin MEGA Silk Way",
+        "prices": {
+          "adult": 2300,
+          "child": null,
+          "student": 1600,
+          "VIP": null
+        }
+      },
+      {
+        "time": "16:30",
+        "cinema": "Kinopark 7 IMAX Keruen",
+        "prices": {
+          "adult": 2700,
+          "child": 900,
+          "student": 1700,
+          "VIP": null
+        }
+      }
+    ]
+  }
+  
