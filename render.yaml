@@ -23,4 +23,4 @@ services:
         value: '${VITE_PORT:-5173}'
     disk:
       - mountPath: '/var/www/html'
-        sizeGB: 0.5 # Ajuste o tamanho do disco conforme necessário
+        sizeGB: 0.5 # Ajustado para 500MB
